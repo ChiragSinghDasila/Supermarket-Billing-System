@@ -1,0 +1,117 @@
+
+=============================
+Fri Oct 16 18:31:10 2026
+Customer Name : Anuj
+Total : 1550.40
+Discount : 155.04
+Net Amount : 1395.36
+=============================
+
+=============================
+Sat Oct 17 09:06:06 2026
+Customer Name : Akshay Bainola
+Total : 242.00
+Discount : 0.00
+Net Amount : 242.00
+=============================
+
+=============================
+Sat Oct 17 09:07:26 2026
+Customer Name : Harshit Bisht
+Total : 604.00
+Discount : 30.20
+Net Amount : 573.80
+=============================
+
+=============================
+Sat Oct 17 09:08:28 2026
+Customer Name : Aditya
+Total : 252.50
+Discount : 0.00
+Net Amount : 252.50
+=============================
+
+=============================
+Sat Oct 17 09:08:53 2026
+Customer Name : Modi jii
+Total : 234.00
+Discount : 0.00
+Net Amount : 234.00
+=============================
+
+=============================
+Sat Oct 17 09:10:24 2026
+Customer Name : Rahul Gandhi
+Total : 136.80
+Discount : 0.00
+Net Amount : 136.80
+=============================
+
+=============================
+Sat Oct 17 10:17:02 2026
+Customer Name : Anuj
+Total : 389.00
+Discount : 0.00
+Net Amount : 389.00
+=============================
+
+=============================
+Sat Nov 14 10:33:59 2026
+Customer Name : 
+Total : 1368.00
+Discount : 136.80
+Net Amount : 1231.20
+=============================
+
+=============================
+Sat Nov 14 10:44:20 2026
+Customer Name : ravi
+Total : 500.00
+Discount : 25.00
+Net Amount : 475.00
+=============================
+
+=============================
+Sat Nov 14 11:38:05 2026
+Customer Name : Neeraj
+Customer ID : 101
+Total : 440.00
+Discount : 0.00
+Net Amount : 440.00
+=============================
+
+=============================
+Sat Nov 14 11:40:09 2026
+Customer Name : Neeraj
+Customer ID : 101
+Total : 40.00
+Discount : 2.00
+Net Amount : 38.00
+=============================
+
+=============================
+Sat Nov 14 11:54:58 2026
+Customer ID : 101
+Customer Name : Neeraj
+Total : 30.00
+Discount : 1.50
+Net Amount : 28.50
+=============================
+
+=============================
+Sat Nov 14 11:55:32 2026
+Customer ID : 115
+Customer Name : rahul
+Total : 110.00
+Discount : 0.00
+Net Amount : 110.00
+=============================
+
+=============================
+Sat Nov 14 11:56:28 2026
+Customer ID : 115
+Customer Name : rahul
+Total : 311.20
+Discount : 15.56
+Net Amount : 295.64
+=============================

@@ -1,0 +1,208 @@
+101
+White Rice
+45.599998
+50
+102
+Wheat Flour
+45.000000
+78
+103
+Sugar
+56.000000
+5
+104
+Olive Oil
+102.000000
+56
+105
+Vinegar
+89.500000
+44
+106
+Black Pepper
+20.000000
+23
+107
+Sea Salt
+45.000000
+78
+108
+Tomatoes
+34.500000
+66
+109
+Chickpeas
+54.599998
+44
+110
+Peanut Butter
+110.000000
+30
+111
+Honey
+250.000000
+4
+112
+Amul Milk
+25.600000
+34
+113
+Yogurt
+12.000000
+78
+114
+Cheese 
+67.000000
+48
+115
+Eggs
+180.000000
+78
+116
+Sour Cream
+23.000000
+3
+117
+Bananas
+70.000000
+12
+118
+Avocados
+450.000000
+45
+119
+Spinach
+45.000000
+45
+120
+Onion
+56.000000
+34
+121
+Chicken Breast
+230.000000
+4
+122
+Corn Flakes
+456.000000
+22
+123
+Popcorn
+50.500000
+44
+124
+Chocolate Cookies
+30.000000
+23
+125
+Kitkat
+20.000000
+40
+126
+Dairy Milk
+15.000000
+40
+127
+Dark Chocolate 
+150.000000
+3
+128
+Black Coffee
+56.000000
+35
+129
+Orange juice
+55.700001
+23
+130
+Bisleri 
+20.000000
+100
+131
+Vanilla Ice Cream
+77.800003
+32
+132
+Strawbeery Ice Cream
+45.000000
+44
+133
+Frozen Pizza
+55.000000
+22
+134
+Dish Soap
+44.000000
+23
+135
+Handwash
+23.000000
+12
+136
+Detergent
+45.000000
+67
+137
+Aluminium Foil
+30.000000
+2
+138
+Trash Bags
+70.000000
+33
+139
+Colgate 
+55.299999
+56
+140
+Potato Chips
+20.000000
+15
+141
+Apple
+23.400000
+34
+142
+Brown Bread
+45.000000
+98
+143
+Potatos
+34.200001
+23
+144
+Kurkure
+10.000000
+75
+145
+Green Tea
+120.000000
+33
+146
+Bourbon
+25.000000
+45
+147
+Facewash
+77.800003
+34
+148
+Tissue
+45.000000
+68
+149
+Maggie
+12.000000
+25
+150
+Matchstick
+2.000000
+20
+151
+Dragon Fruit
+1000.000000
+2
+152
+Cucumber
+45.000000
+22
